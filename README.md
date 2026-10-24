@@ -28,6 +28,7 @@ This project analyzes unemployment rates in different regions and studies unempl
 ## Conclusion
 This project helps understand unemployment trends and regional differences. The findings can support further research and help policymakers plan employment opportunities.
 
+Code Link : https://github.com/sparsh220/HorizonTechX_Unemployment-Analysis-Using-Python/blob/main/task2.ipynb
 
 
 
